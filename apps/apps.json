@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "f113d862-6707-4a25-abef-bc5c1ceb5019",
+    "name": "AttendPro",
+    "version": "1.0",
+    "category": "Education",
+    "description": "This is app for report on WhatsApp, the students as present or absent on visual way",
+    "apk": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/apk/1791310046746-AttendPro.apk",
+    "icon": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/icons/1791310061784-100619.png",
+    "size": "10.2 MB"
+  }
+]
