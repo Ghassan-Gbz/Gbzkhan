@@ -8,5 +8,15 @@
     "apk": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/apk/1791310046746-AttendPro.apk",
     "icon": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/icons/1791310061784-100619.png",
     "size": "10.2 MB"
+  },
+  {
+    "id": "65d56e68-3798-474a-a864-fd8a5b715425",
+    "name": "Study planner",
+    "version": "1",
+    "category": "Education",
+    "description": "Study schemer",
+    "apk": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/apk/1791362723178-Study_planner.apk",
+    "icon": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/icons/1791362729957-100419.png",
+    "size": "4.0 MB"
   }
 ]
