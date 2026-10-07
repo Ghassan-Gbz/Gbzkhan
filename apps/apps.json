@@ -18,5 +18,15 @@
     "apk": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/apk/1791362723178-Study_planner.apk",
     "icon": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/icons/1791362729957-100419.png",
     "size": "4.0 MB"
+  },
+  {
+    "id": "83d4c672-ad60-401f-91e1-6085edc65f86",
+    "name": "TestPro",
+    "version": "1",
+    "category": "Education",
+    "description": "Test statistic",
+    "apk": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/apk/1791362776348-TestPro.apk",
+    "icon": "https://raw.githubusercontent.com/Ghassan-Gbz/Gbzkhan/main/apps/icons/1791362785562-101509.png",
+    "size": "9.4 MB"
   }
 ]
